@@ -97,7 +97,7 @@ con/
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /home/adebo/con
+   cd /home/mydir/con
    ```
 
 2. **Run the setup script:**
